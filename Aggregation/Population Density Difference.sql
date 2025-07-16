@@ -1,3 +1,3 @@
-# Author: Thomas George Thomas
+# Author: Amit Kumar
 SELECT MAX(POPULATION) - MIN(POPULATION)
 FROM CITY
