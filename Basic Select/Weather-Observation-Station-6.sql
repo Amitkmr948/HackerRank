@@ -1,4 +1,3 @@
-# Author: Thomas George Thomas
 select distinct(city) from station where
 city like "a%" or
 city like "e%" or
