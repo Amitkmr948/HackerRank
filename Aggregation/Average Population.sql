@@ -1,3 +1,3 @@
-# Author: Thomas George Thomas
+# Author: Amit Kumar
 SELECT FLOOR(AVG(POPULATION))
 FROM CITY
