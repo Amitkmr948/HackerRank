@@ -1,4 +1,4 @@
--- Contributor: Abhishek Srivastava
+-- # Author: Amit Kumar
 SELECT 
     MAX(CASE WHEN Occupation = 'Doctor' THEN Name END) AS Doctor,
     MAX(CASE WHEN Occupation = 'Professor' THEN Name END) AS Professor,
