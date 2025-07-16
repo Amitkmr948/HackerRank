@@ -8,7 +8,7 @@
 </p>
 
 ## Description
-The solutions of all the SQL challenges for all easy, medium and hard challenges on HackerRank executed on MySQL environment compiled with helpful Resources & references related to the challenges.
+Amit Kumar’s HackerRank‑SQL‑Challenges‑Solutions GitHub repository offers complete MySQL solutions for all 58 HackerRank SQL challenges, spanning easy, medium, and hard levels. Each solution includes helpful comments, resources, and references, neatly organized by topic (Basic/Advanced Select, Joins, Aggregation, etc.). It’s designed to run directly in a MySQL environment, making it a one‑stop reference for learning and validation
 
 ## Domains
 
